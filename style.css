@@ -11,3 +11,11 @@
     --black: #333;
     --white: #fff;
 }
+
+header {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
