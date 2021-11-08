@@ -36,3 +36,9 @@ header .logo {
 .rightSide {
     display: flex;
 }
+
+.btns {
+    position: relative;
+    width: 40px;
+    height: 40px;
+}
