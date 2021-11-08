@@ -45,4 +45,11 @@ header .logo {
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.btns ion-icon {
+    font-size: 1.5em;
+    color: var(--black);
 }
