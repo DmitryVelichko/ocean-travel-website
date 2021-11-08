@@ -30,4 +30,9 @@ header .logo {
     font-size: 2em;
     font-weight: 700;
     letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.rightSide {
+    display: flex;
 }
