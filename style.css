@@ -21,3 +21,10 @@ header {
     padding: 40px 100px;
     z-index: 10000;
 }
+
+header .logo {
+    position: relative;
+    display: inline-flex;
+    color: var(--black);
+    text-decoration: none;
+}
