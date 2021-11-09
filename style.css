@@ -61,3 +61,7 @@ header .logo {
 .btns ion-icon:nth-child(2) {
   display: none;
 }
+
+.btns.active ion-icon:nth-child(2) {
+    display: block;
+}
