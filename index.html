@@ -33,6 +33,11 @@
       let dayNight = document.querySelector('.dayNight');
       let menuToggle = document.querySelector('.menuToggle');
       let body = document.querySelector('body');
+
+      dayNight.onlick = function() {
+        body.classList.toggle('dark');
+        dayNight.classList.toggle('active');
+      }
     </script>
   </body>
 </html>
