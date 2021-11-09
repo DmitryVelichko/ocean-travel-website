@@ -69,3 +69,12 @@ header .logo {
 .btns.active ion-icon:nth-child(1) {    
     display: none;
 }
+
+.main {
+    position: relative;
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
