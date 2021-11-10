@@ -98,3 +98,8 @@ header .logo {
   user-select: none;
   mix-blend-mode: screen;
 }
+
+.main h2 {
+  position: relative;
+  z-index: 3;
+}
