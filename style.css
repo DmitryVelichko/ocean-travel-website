@@ -124,3 +124,10 @@ header .logo {
 .navigation li {
   list-style: none;
 }
+
+.navigation li a {
+  display: inline-flex;
+  margin: 5px 0;
+  font-size: 1.25em;
+  text-decoration: none;
+}
