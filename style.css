@@ -103,7 +103,7 @@ header .logo {
   position: relative;
   z-index: 3;
   font-size: 16vw;
-  color: #fff;
+  color: var(--white);
   text-shadow: 0 20px 30px rgba(0, 0, 0, 0.2);
 }
 
@@ -117,6 +117,10 @@ header .logo {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: #fff;
+  background: var(--white);
   z-index: 4;
+}
+
+.navigation li {
+  list-style: none;
 }
