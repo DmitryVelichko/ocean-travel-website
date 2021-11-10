@@ -116,4 +116,7 @@ header .logo {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+  background: #fff;
+  z-index: 4;
 }
