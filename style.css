@@ -167,3 +167,9 @@ header .logo {
 .sci li {
   list-style: none;
 }
+
+.sci li a {
+  text-decoration: none;
+  color: var(--black);
+  font-size: 1.75em;
+}
