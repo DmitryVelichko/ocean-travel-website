@@ -163,3 +163,7 @@ header .logo {
   display: flex;
   flex-direction: column;
 }
+
+.sci li {
+  list-style: none;
+}
