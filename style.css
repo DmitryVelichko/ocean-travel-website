@@ -149,5 +149,8 @@ header .logo {
   position: absolute;
   left: 100px;
   bottom: 40px;
-
+  z-index: 4;
+  font-weight: 500;
+  font-size: 1.2em;
+  color: var(--black);
 }
