@@ -154,3 +154,10 @@ header .logo {
   font-size: 1.2em;
   color: var(--black);
 }
+
+.sci {
+  position: absolute;
+  right: 100px;
+  bottom: 30px;
+  z-index: 4;
+}
