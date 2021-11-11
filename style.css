@@ -119,11 +119,15 @@ header .logo {
   flex-direction: column;
   background: var(--white);
   z-index: 4;
-  transition: 0.5s;
+  transition: 1s;
 }
 
 .navigation li {
   list-style: none;
+}
+
+.navigation.active {
+  left: 0;
 }
 
 .navigation li a {
