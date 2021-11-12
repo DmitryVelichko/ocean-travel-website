@@ -12,6 +12,11 @@
   --white: #fff;
 }
 
+.dark {
+  --black: #fff;
+  --white: #333;
+}
+
 header {
   position: absolute;
   display: flex;
