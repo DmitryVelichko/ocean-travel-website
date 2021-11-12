@@ -104,6 +104,11 @@ header .logo {
   mix-blend-mode: screen;
 }
 
+.dark .mask {
+  filter: invert(1);
+  mix-blend-mode: multiply;
+}
+
 .main h2 {
   position: relative;
   z-index: 3;
