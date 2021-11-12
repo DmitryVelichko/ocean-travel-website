@@ -188,4 +188,8 @@ header .logo {
   header {
     padding: 20px;
   }
+  .copyrightText {
+    left: 20px;
+    bottom: 30px;
+  }
 }
